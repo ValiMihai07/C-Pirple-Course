@@ -1,0 +1,16 @@
+D:\C#\Home8\bin\Debug\net5.0\Home8.exe
+D:\C#\Home8\bin\Debug\net5.0\Home8.deps.json
+D:\C#\Home8\bin\Debug\net5.0\Home8.runtimeconfig.json
+D:\C#\Home8\bin\Debug\net5.0\Home8.runtimeconfig.dev.json
+D:\C#\Home8\bin\Debug\net5.0\Home8.dll
+D:\C#\Home8\bin\Debug\net5.0\ref\Home8.dll
+D:\C#\Home8\bin\Debug\net5.0\Home8.pdb
+D:\C#\Home8\obj\Debug\net5.0\Home8.csprojAssemblyReference.cache
+D:\C#\Home8\obj\Debug\net5.0\Home8.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Home8\obj\Debug\net5.0\Home8.AssemblyInfoInputs.cache
+D:\C#\Home8\obj\Debug\net5.0\Home8.AssemblyInfo.cs
+D:\C#\Home8\obj\Debug\net5.0\Home8.csproj.CoreCompileInputs.cache
+D:\C#\Home8\obj\Debug\net5.0\Home8.dll
+D:\C#\Home8\obj\Debug\net5.0\ref\Home8.dll
+D:\C#\Home8\obj\Debug\net5.0\Home8.pdb
+D:\C#\Home8\obj\Debug\net5.0\Home8.genruntimeconfig.cache

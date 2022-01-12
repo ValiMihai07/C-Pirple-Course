@@ -1,0 +1,16 @@
+D:\C#\Elevator\Elevator\bin\Debug\net5.0\Elevator.exe
+D:\C#\Elevator\Elevator\bin\Debug\net5.0\Elevator.deps.json
+D:\C#\Elevator\Elevator\bin\Debug\net5.0\Elevator.runtimeconfig.json
+D:\C#\Elevator\Elevator\bin\Debug\net5.0\Elevator.runtimeconfig.dev.json
+D:\C#\Elevator\Elevator\bin\Debug\net5.0\Elevator.dll
+D:\C#\Elevator\Elevator\bin\Debug\net5.0\ref\Elevator.dll
+D:\C#\Elevator\Elevator\bin\Debug\net5.0\Elevator.pdb
+D:\C#\Elevator\Elevator\obj\Debug\net5.0\Elevator.csprojAssemblyReference.cache
+D:\C#\Elevator\Elevator\obj\Debug\net5.0\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Elevator\Elevator\obj\Debug\net5.0\Elevator.AssemblyInfoInputs.cache
+D:\C#\Elevator\Elevator\obj\Debug\net5.0\Elevator.AssemblyInfo.cs
+D:\C#\Elevator\Elevator\obj\Debug\net5.0\Elevator.csproj.CoreCompileInputs.cache
+D:\C#\Elevator\Elevator\obj\Debug\net5.0\Elevator.dll
+D:\C#\Elevator\Elevator\obj\Debug\net5.0\ref\Elevator.dll
+D:\C#\Elevator\Elevator\obj\Debug\net5.0\Elevator.pdb
+D:\C#\Elevator\Elevator\obj\Debug\net5.0\Elevator.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C#\proceduralVSoop\proceduralVSoop\bin\Debug\net5.0\proceduralVSoop.exe
+D:\C#\proceduralVSoop\proceduralVSoop\bin\Debug\net5.0\proceduralVSoop.deps.json
+D:\C#\proceduralVSoop\proceduralVSoop\bin\Debug\net5.0\proceduralVSoop.runtimeconfig.json
+D:\C#\proceduralVSoop\proceduralVSoop\bin\Debug\net5.0\proceduralVSoop.runtimeconfig.dev.json
+D:\C#\proceduralVSoop\proceduralVSoop\bin\Debug\net5.0\proceduralVSoop.dll
+D:\C#\proceduralVSoop\proceduralVSoop\bin\Debug\net5.0\ref\proceduralVSoop.dll
+D:\C#\proceduralVSoop\proceduralVSoop\bin\Debug\net5.0\proceduralVSoop.pdb
+D:\C#\proceduralVSoop\proceduralVSoop\obj\Debug\net5.0\proceduralVSoop.csprojAssemblyReference.cache
+D:\C#\proceduralVSoop\proceduralVSoop\obj\Debug\net5.0\proceduralVSoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\proceduralVSoop\proceduralVSoop\obj\Debug\net5.0\proceduralVSoop.AssemblyInfoInputs.cache
+D:\C#\proceduralVSoop\proceduralVSoop\obj\Debug\net5.0\proceduralVSoop.AssemblyInfo.cs
+D:\C#\proceduralVSoop\proceduralVSoop\obj\Debug\net5.0\proceduralVSoop.csproj.CoreCompileInputs.cache
+D:\C#\proceduralVSoop\proceduralVSoop\obj\Debug\net5.0\proceduralVSoop.dll
+D:\C#\proceduralVSoop\proceduralVSoop\obj\Debug\net5.0\ref\proceduralVSoop.dll
+D:\C#\proceduralVSoop\proceduralVSoop\obj\Debug\net5.0\proceduralVSoop.pdb
+D:\C#\proceduralVSoop\proceduralVSoop\obj\Debug\net5.0\proceduralVSoop.genruntimeconfig.cache
